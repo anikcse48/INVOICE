@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "Invoice",
+    "name": "Alisha_আচঁল",
     "slug": "Invoice",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/Alis.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/Alis.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -17,13 +17,19 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/Alis.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.anikcse.Invoice"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/Alis.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c128a72c-86d9-40b7-8271-8e0630827887"
+      }
     }
   }
 }
